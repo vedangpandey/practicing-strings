@@ -1,4 +1,4 @@
-class Solution {
+{
     public int countMatches(List<List<String>> items, String rulekey, String ruleValue) {
         int c=0;
         for(int i=0;i<items.size();i++)
